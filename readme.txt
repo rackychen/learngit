@@ -5,5 +5,6 @@ Git has a mutable index called stage.
 
 understand how stage works
 
+aaa
 
 Creating a new branch is quick.
